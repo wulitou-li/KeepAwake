@@ -1,0 +1,5 @@
+.DS_Store
+KeepAwake.app/
+*.dmg
+*.zip
+.build/
